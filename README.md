@@ -11,15 +11,15 @@ interesting new world.</p>
 <p align="center">I worked as a doctor before, which allowed me to develop assertive communication and learn to work as a team, as well as to maintain a critical and positive attitude in the face of difficulties and failure.</p>
 <p align="center">What excites me the most in this field, is the endless possibilities and the opportunity to continuously learn and grow. </p>
 
-### Connect with me 
+### <p align="center"> Connect with me </p>
 
-<a href="https://www.linkedin.com/in/leandra-bujhamer/" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="perfil Lea Bujhamer" height="30" width="40" /></a>
+<p align="center"><a href="https://www.linkedin.com/in/leandra-bujhamer/" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="perfil Lea Bujhamer" height="30" width="40" /></a>
 </p>
 
-###  Languages and Tools
+###  <p align="center"> Languages and Tools </p>
 
 
-<p align="left">
+<p align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
@@ -43,4 +43,5 @@ interesting new world.</p>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8kK5-uGuaQhRqRbMHWOmYRTPp8uNh2w6qIg&usqp=CAU" alt="insomnia" style="margin: 5px" width="60" heigth="60"/>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leandrita&show_icons=true&locale=en&layout=compact" alt="leandrita" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leandrita&show_icons=true&locale=en&layout=compact" alt="leandrita" /></p>
