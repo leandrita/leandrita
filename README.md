@@ -42,3 +42,5 @@ interesting new world.</p>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPyuvewtrlp3VMpNsRS-NYWmNmihKPz-9OA&usqp=CAU" alt="postman" style="margin: 5px" width="60" heigth="60"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8kK5-uGuaQhRqRbMHWOmYRTPp8uNh2w6qIg&usqp=CAU" alt="insomnia" style="margin: 5px" width="60" heigth="60"/>
 </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leandrita&show_icons=true&locale=en&layout=compact" alt="leandrita" /></p>
