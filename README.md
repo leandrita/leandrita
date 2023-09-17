@@ -4,9 +4,9 @@
 # <p align="center"> Hi there 👋 I'm Lea </p>
 ## <p align="center"> Full-Stack Developer </p>
 
+<p align="center"> 🌱 I think that I can define myself as a person who constantly reinvents herself.</p>
 <p align="center"> 🔭 I am always looking to be challenged and to challenge others.</p>
-<p align="center"> 🌱 I think that I can define myself as a person who constantly reinvents herself.
-That's why I am currently a Full-Stack Developer student, and I feel proud to be part of this very
+<p align="center">That's why I am currently a Full-Stack Developer student, and I feel proud to be part of this very
 interesting new world.</p>
 <p align="center">I worked as a doctor before, which allowed me to develop assertive communication and learn to work as a team, as well as to maintain a critical and positive attitude in the face of difficulties and failure.</p>
 <p align="center">What excites me the most in this field, is the endless possibilities and the opportunity to continuously learn and grow. </p>
