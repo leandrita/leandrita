@@ -1,7 +1,7 @@
 
 ![Welcome](welcome/welcome.jpg)
 
-# <p align="center"> Hi there 👋 I'm Lea </p>
+# <p align="center"> Hi there! 👋 I'm Lea </p>
 ## <p align="center"> Full-Stack Developer </p>
 
 <p align="center"> 🌱 I think that I can define myself as a person who constantly reinvents herself.</p>
